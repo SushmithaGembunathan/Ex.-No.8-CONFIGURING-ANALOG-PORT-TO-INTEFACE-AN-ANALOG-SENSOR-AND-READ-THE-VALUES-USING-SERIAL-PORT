@@ -1,5 +1,6 @@
-**** 
+Name : Sushmitha Gembunathan
 
+Register No : 212224040342
 
 ### Ex. No. :8 CONFIGURING ANALOG PORT TO INTEFACE AN ANALOG SENSOR AND READ THE VALUES USING SERIAL PORT
 ## Date: 
